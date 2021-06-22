@@ -275,3 +275,19 @@
         padding: 0px;
     }
 }   
+
+.about{
+    
+        
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        text-align: center;
+        
+        
+    
+    }
+
+    .abouttext{
+        padding: 10px 10px;
+    }
